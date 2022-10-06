@@ -2,5 +2,8 @@ def hola():
     print("hola")
 
 def saludar():
-    print()
+    print("antes de saludar")
     hola()
+
+def dummy():
+    pass
